@@ -1,4 +1,4 @@
-TARGET_EXEC ?= ff
+TARGET_EXEC ?= fftools
 
 BUILD_DIR ?= ./build
 SRC_DIRS ?= ./src
